@@ -1,0 +1,14 @@
+<div class="facilities">
+  <h1 class="Ourfacilities">Our Facilities</h1>
+  <p class="facilitiesp">We have so many facilities in GymNas which make you fell like youre home!</p>
+
+    <img class='locker' src="locker.jpg"><br><br>
+    <h1>LOCKER ROOM</h1>
+  
+    <img class="equip" src="equip.jpg">
+    <h1>GYM EQUIP</h1>
+
+    <img  class="comunity" src="comunity center.jpg">
+    <h1>COMUNITY CENTER</h1>
+
+</div>
